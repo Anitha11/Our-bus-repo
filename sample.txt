@@ -5,5 +5,8 @@ THis is a sample text
 Thanks
 Ani
 my second commit test line
+<<<<<<< HEAD
 A test line for my Latest commit test
+=======
+>>>>>>> e436c1d... second commit
 
